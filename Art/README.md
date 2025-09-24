@@ -16,14 +16,11 @@
     ├── Music/
     │   └── README.md   # Theory, instruments, composition, digital audio
     │
-    ├── Dance/
-    │   └── README.md   # Ballet, modern, hip-hop, choreography
-    │
-    ├── Theater/
-    │   └── README.md   # Acting, stagecraft, playwriting
-    │
     ├── Design/
     │   └── README.md   # Graphic design, typography, digital media
+    │
+    ├── Animation/
+    │    └── README.md  # Traditional, Digital, and 3D animation
     │
     └── Art_History/
         └── README.md   # Movements, artists, cultural context
