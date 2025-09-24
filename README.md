@@ -7,3 +7,4 @@ A curriculm for our daughter setup throughout the younger years. For us to colla
     - History
     - Languages (English, Spanish, French)
     - Lifestyle
+    - English
