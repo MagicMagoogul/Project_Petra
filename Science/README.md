@@ -23,7 +23,7 @@
     │   └── README.md   # Climate, ecosystems, sustainability
     │
     ├── Computer_Science/
-    │   └── README.md   # Algorithms, programming, AI concepts
+    │   └── README.md   # Algorithms, programming, hardware, how computers work besides being a box of rocks
     │
     └── Advanced/
       └── README.md   # Biochemistry, astrophysics, quantum mechanics
