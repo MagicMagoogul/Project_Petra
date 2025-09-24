@@ -5,7 +5,5 @@ A curriculm for our daughter setup throughout the younger years. For us to colla
     - Science 
     - Art
     - History
-    - English
-    - French
-    - Spanish
+    - Languages (English, Spanish, French)
     - Lifestyle
