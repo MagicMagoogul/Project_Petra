@@ -3,4 +3,4 @@
     - English
     - Spanish
     - French
-    - Learning_Languge # How to learn a language quickly and effectively when exposed to a new one
+    - Learning_Languge         # How to learn a language quickly and effectively when exposed to a new one
