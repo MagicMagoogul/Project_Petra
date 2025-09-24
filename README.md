@@ -8,3 +8,5 @@ A curriculm for our daughter setup throughout the younger years. For us to colla
     - Languages (English, Spanish, French)
     - Lifestyle
     - English
+
+<pre> ```text .-"''-. _ .' `( \ @/ ') ,--,__,-" / / \ / / _/ __| , |/ / .~ `\ / \ , | / .~ `\ ` / _/ _/ .~ `\ ~~`__/ / ~ `--'/ / / / / /' /jgs ``` </pre>
