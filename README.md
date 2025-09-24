@@ -8,3 +8,4 @@ A curriculm for our daughter setup throughout the younger years. For us to colla
     - English
     - French
     - Spanish
+    - Lifestyle
