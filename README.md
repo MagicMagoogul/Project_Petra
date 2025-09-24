@@ -9,4 +9,14 @@ A curriculm for our daughter setup throughout the younger years. For us to colla
     - Lifestyle
     - English
 
-<pre> ```text .-"''-. _ .' `( \ @/ ') ,--,__,-" / / \ / / _/ __| , |/ / .~ `\ / \ , | / .~ `\ ` / _/ _/ .~ `\ ~~`__/ / ~ `--'/ / / / / /' /jgs ``` </pre>
+<pre> ```text             .-"''-.  _
+          .'       `( \ 
+        @/            ')   ,--,__,-"
+        /        /      \ /     /   _/
+      __|           ,   |/         /
+    .~  `\   / \ ,  |   /
+  .~      `\    `  /  _/   _/
+.~          `\  ~~`__/    /
+~             `--'/
+             /   /    /
+            /  /'    /   ``` </pre>
