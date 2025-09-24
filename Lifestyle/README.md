@@ -7,3 +7,5 @@
     - What is capitalism, positives? negatives?
     - How to work on a car
     - How to keep a schedule and what ways to prioritize order
+    - What is law? Learning your rights.
+    - Resources for other life moments- having a baby, buying your first house, deciding what college to go to, etc...
