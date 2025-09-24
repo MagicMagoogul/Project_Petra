@@ -25,5 +25,8 @@
     ├── Computer_Science/
     │   └── README.md   # Algorithms, programming, hardware, how computers work besides being a box of rocks
     │
+    ├── Zoology/
+    │    └── README.md   # Animals man
+    │
     └── Advanced/
       └── README.md   # Biochemistry, astrophysics, quantum mechanics
