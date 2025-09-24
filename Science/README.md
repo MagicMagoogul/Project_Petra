@@ -1,4 +1,4 @@
-# The general ways or world functions, the code behind how we work and how all matter interacts and behaves
+# The general ways our world functions, the code behind how we work and how all matter interacts and behaves
 
 # Directory Breakdown
     Sciences/
