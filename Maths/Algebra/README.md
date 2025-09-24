@@ -1,4 +1,4 @@
-# Algerbra is the process of using variables to have equations that are subject to change.
+# Algebra is the process of using variables to have equations that are subject to change.
 
 # Example
 
