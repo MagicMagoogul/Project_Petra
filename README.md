@@ -1,5 +1,5 @@
 # Project P3tr4
-A curriculm for our daughter setup throughout the younger years. For us to collaborate and structure together :)
+A curriculum for our daughter setup throughout the younger years. For us to collaborate and structure together :)
 <pre>            .-"''-.  _
           .'       `( \ 
         @/            ')   ,--,__,-"
