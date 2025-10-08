@@ -4,7 +4,7 @@
     - Finances
     - How the healthcare system works
     - Politics, the structure of the american system
-    - What is capitalism, positives? negatives?
+    - What is capitalism? What is america? What are other countries and how do our systems work?
     - How to work on a car
     - How to keep a schedule and what ways to prioritize order
     - What is law? Learning your rights.
